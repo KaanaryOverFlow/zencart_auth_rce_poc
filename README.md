@@ -1,9 +1,9 @@
 # somuru programlarim
 
 exploiting
-![send command](http://url/to/img.png)
+![send command](https://github.com/MucahitSaratar/somuru_programlarim/raw/master/images/command.png)
 refresh page
-![refresh page](http://url/to/img.png)
+![refresh page](https://github.com/MucahitSaratar/somuru_programlarim/raw/master/images/bir.png)
 zoom
-![zoom](http://url/to/img.png)
+![zoom](https://github.com/MucahitSaratar/somuru_programlarim/raw/master/images/iki.png)
 
