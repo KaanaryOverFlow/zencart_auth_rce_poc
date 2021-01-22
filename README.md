@@ -7,7 +7,7 @@
 
 3-) inspect element any true radiobox
 
-4-) change true to true','MODULE_ORDER_TOTAL_TOTAL_STATUS'); echo `id`; //
+4-) change true to true','MODULE_ORDER_TOTAL_TOTAL_STATUS'); echo \`id\`; //
 
 5-) click update
 
