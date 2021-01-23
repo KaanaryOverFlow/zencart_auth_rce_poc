@@ -1,4 +1,4 @@
-# somuru programlarim
+# zencart_auth_rce_poc
 
 
 1-) login as admin
