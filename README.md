@@ -25,13 +25,6 @@ zoom
 
 ![zoom](https://github.com/MucahitSaratar/somuru_programlarim/raw/master/images/iki.png)
 
-VIDEO
-
-![video](https://user-images.githubusercontent.com/29048982/105694076-91cac580-5f11-11eb-85b6-4b3255d90b6b.mp4)
-
-
-
-
 
 GIF
 
