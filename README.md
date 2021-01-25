@@ -27,7 +27,7 @@ zoom
 
 VIDEO
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://user-images.githubusercontent.com/29048982/105694076-91cac580-5f11-11eb-85b6-4b3255d90b6b.mp4)
+[![Watch the video]](https://user-images.githubusercontent.com/29048982/105694076-91cac580-5f11-11eb-85b6-4b3255d90b6b.mp4)
 
 
 GIF
