@@ -1,4 +1,4 @@
-# zencart_auth_rce_poc
+# zencart_auth_rce_poc CVE-20021-3291
 
 
 1-) login as admin
@@ -12,6 +12,8 @@
 5-) click update
 
 6-) to trig command go again edit page
+
+CVE-2021-3291 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3291
 
 
 POC
