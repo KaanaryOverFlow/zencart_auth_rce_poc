@@ -27,6 +27,11 @@ zoom
 
 ![zoom](https://github.com/MucahitSaratar/somuru_programlarim/raw/master/images/iki.png)
 
+Metasploit 
+
+![Ekran görüntüsü 2021-01-27 00-03-55](https://user-images.githubusercontent.com/29048982/105906034-3fce9080-6034-11eb-94cb-feb792b3105b.png)
+
+
 
 GIF
 
