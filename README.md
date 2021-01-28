@@ -1,4 +1,4 @@
-# zencart_auth_rce_poc CVE-20021-3291
+# zencart_auth_rce_poc CVE-2021-3291
 
 
 1-) login as admin
